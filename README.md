@@ -1,52 +1,5 @@
 
 
-### 🛠️ My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,docker,linux,csharp,github,vscode&perline=7" />
-</p>
-
----
-
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtritch&show_icons=true&theme=tokyonight&hide_border=false" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtritch&theme=tokyonight&hide_border=false" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtritch&layout=compact&theme=tokyonight&hide_border=false" />
-</div>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:mrtritch.org@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/mr_tr_ut" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/mrtritch" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
----
-
-### 🤖 Fun Fact
-
-> I code like I play League: **aggressively, creatively, and with a lot of respawns.**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=I+build.+I+learn.+I+fail.+I+repeat.;Welcome+to+my+chaotic+GitHub+universe!;Brace+yourself...+more+is+coming!" />
-</p>
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://media.tenor.com/-Fx64xP8qTQAAAAC/hacker-pepe.gif" height="200" />
 </p>
@@ -110,6 +63,12 @@
 - I dream of building my own AI waifu 🤖❤️.
 - My fridge contains more sauces than actual food.
 - I once thought `rm -rf /` was a shortcut for cleaning up disk space (spoiler: it isn’t 😬).
+- > I code like I play League: **aggressively, creatively, and with a lot of respawns.**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=I+build.+I+learn.+I+fail.+I+repeat.;Welcome+to+my+chaotic+GitHub+universe!;Brace+yourself...+more+is+coming!" />
+</p>
+
 
 ---
 
