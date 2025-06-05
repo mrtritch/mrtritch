@@ -12,6 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=mrtritch&style=for-the-badge" alt="profile views"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Dev+%7C+Django+Lover;League+of+Legends+Addict;Lazy+but+Ambitious;Trying+to+Change+My+Life;Happy+Iranian+With+Big+Dreams;Content+Creator+%7C+YouTuber"/>
+</p>
 
 ---
 
@@ -60,7 +63,7 @@
 - I dream of building my own AI waifu 🤖❤️.
 - My fridge contains more sauces than actual food.
 - I once thought `rm -rf /` was a shortcut for cleaning up disk space (spoiler: it isn’t 😬).
-- I code like I play League: **aggressively, creatively, and with a lot of respawns.**
+- > I code like I play League: **aggressively, creatively, and with a lot of respawns.**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=I+build.+I+learn.+I+fail.+I+repeat.;Welcome+to+my+chaotic+GitHub+universe!;Brace+yourself...+more+is+coming!" />
@@ -72,4 +75,3 @@
 <h3 align="center" style="color:#2196F3">
   Thanks for scrolling. Now go follow me 😎
 </h3>
-
