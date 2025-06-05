@@ -1,23 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#00ffff;">mrtritch</span> 👾</h1>
-<h3 align="center">A passionate developer, gamer, and content creator on a mission to evolve</h3>
 
----
-
-### 🧠 About Me
-
-<table>
-<tr><td>🎓</td><td>Computer Engineering Student @ University of Isfahan</td></tr>
-<tr><td>🏢</td><td>Currently registering my own tech company</td></tr>
-<tr><td>🐧</td><td>Linux Enthusiast & Docker Explorer</td></tr>
-<tr><td>🛡️</td><td>Security & Pentesting Lover</td></tr>
-<tr><td>🎮</td><td>League of Legends Player</td></tr>
-<tr><td>📹</td><td>YouTuber & Content Creator</td></tr>
-<tr><td>🧑‍🍳</td><td>Yes, I love cooking too 😋</td></tr>
-<tr><td>🔁</td><td>Lazy & Procrastinator but always seeking change!</td></tr>
-<tr><td>🧬</td><td>Always hungry for knowledge ⚡</td></tr>
-</table>
-
----
 
 ### 🛠️ My Tech Stack
 
@@ -27,16 +8,7 @@
 
 ---
 
-### 📦 My Projects
 
-> 🛑 Most of my projects are private due to production usage and copyright protection.  
-> 🔐 I work on real-world software and business-oriented systems.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2bW9md2EzdjY5MzByNjh5cTZoNGZsZmtuZW02dGRiM2k2bWl6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs7YsWTSP0zrjzNK/giphy.gif" height="200" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
