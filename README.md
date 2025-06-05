@@ -1,48 +1,70 @@
-<h1 align="center">Hi 👋, I'm mrtritch</h1>
-<h3 align="center">Just Code & Code; Creativity Will Come...</h3>
+<h1 align="center">Hi there, I'm <span style="color:#00ffff;">mrtritch</span> 👾</h1>
+<h3 align="center">A passionate developer, gamer, and content creator on a mission to evolve</h3>
 
 ---
 
-### 👾 About Me:
-- 🔥 I’m a developer who codes like it's a survival game  
-- 💻 Currently building full-stack projects with **Flask**
-- 🎮 Gamer | 🔧 Tinkerer | 🌱 Always learning something wild
-- 🎥 Making chaos on [YouTube](https://youtube.com/@YOURCHANNEL) soon...
+### 🧠 About Me
+
+<table>
+<tr><td>🎓</td><td>Computer Engineering Student @ University of Isfahan</td></tr>
+<tr><td>🏢</td><td>Currently registering my own tech company</td></tr>
+<tr><td>🐧</td><td>Linux Enthusiast & Docker Explorer</td></tr>
+<tr><td>🛡️</td><td>Security & Pentesting Lover</td></tr>
+<tr><td>🎮</td><td>League of Legends Player</td></tr>
+<tr><td>📹</td><td>YouTuber & Content Creator</td></tr>
+<tr><td>🧑‍🍳</td><td>Yes, I love cooking too 😋</td></tr>
+<tr><td>🔁</td><td>Lazy & Procrastinator but always seeking change!</td></tr>
+<tr><td>🧬</td><td>Always hungry for knowledge ⚡</td></tr>
+</table>
 
 ---
 
-### 🧠 Skills:
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### 🛠️ My Tech Stack
 
----
-
-### 🔥 My Projects
-- [🧪 Flask Blog](https://github.com/mrtritch/flaskblog): A blog engine built from scratch with Flask  
-- [🚧 Flask Mini App](https://github.com/mrtritch/Flask): Small-scale web application playground
-
-More coming soon... Stay tuned 👀
-
----
-
-### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtritch&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtritch&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,django,docker,linux,csharp,github,vscode&perline=7" />
 </p>
 
 ---
 
-### 📫 Contact Me:
-- 📬 Email: mrtritch.org@gmail.com
-- 💬 Telegram : @mr_tr_ut
+### 📦 My Projects
+
+> 🛑 Most of my projects are private due to production usage and copyright protection.  
+> 🔐 I work on real-world software and business-oriented systems.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2bW9md2EzdjY5MzByNjh5cTZoNGZsZmtuZW02dGRiM2k2bWl6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs7YsWTSP0zrjzNK/giphy.gif" height="200" />
+</p>
 
 ---
 
-<p align="center">Built with ❤️ and a whole lot of 💻</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrtritch&show_icons=true&theme=tokyonight&hide_border=false" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtritch&theme=tokyonight&hide_border=false" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtritch&layout=compact&theme=tokyonight&hide_border=false" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:mrtritch.org@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/mr_tr_ut" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/mrtritch" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+### 🤖 Fun Fact
+
+> I code like I play League: **aggressively, creatively, and with a lot of respawns.**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=I+build.+I+learn.+I+fail.+I+repeat.;Welcome+to+my+chaotic+GitHub+universe!;Brace+yourself...+more+is+coming!" />
+</p>
