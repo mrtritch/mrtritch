@@ -40,8 +40,8 @@ More coming soon... Stay tuned 👀
 ---
 
 ### 📫 Contact Me:
-- 📬 Email: your@email.com *(اختیاریه اگه خواستی بذارم)*
-- 💬 Telegram / Discord / etc: *(اگه لینک بدی اضافه می‌کنم)*
+- 📬 Email: mrtritch.org@gmail.com
+- 💬 Telegram : @mr_tr_ut
 
 ---
 
