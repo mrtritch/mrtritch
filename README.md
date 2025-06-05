@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Hobby-Cooking-yellow?style=flat-square&logo=simpleicons"/>
 </p>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/League_of_Legends_icon.svg/2048px-League_of_Legends_icon.svg.png" height="40"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/0/05/League_of_Legends_icon.svg/2048px-League_of_Legends_icon.svg.png](https://imgs.search.brave.com/c7rQ3qedkq1hxKS1NWqQEI_Bip4nCqjaDa9lAamEt7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJy/Znh4L3N0eWxlcy9j/b21tdW5pdHlJY29u/Xzl5ajY2Y2pmOG9x/NjEucG5n)" height="40"/>
 </p>
 
 ---
